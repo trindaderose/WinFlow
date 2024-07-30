@@ -32,19 +32,20 @@ images, screenshots, GIFs, text formatting, etc.
     - [defraggler](https://www.ccleaner.com/defraggler) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [easy-context-menu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [gitui](https://github.com/extrawurst/gitui) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [lazygit](https://github.com/jesseduffield/lazygit) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [glow](https://github.com/charmbracelet/glow) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [webtorrent](https://webtorrent.io/desktop/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [kondo](https://github.com/tbillington/kondo) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
 
 
 ## Tema
 
 - [Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [StartAllBack](https://www.startallback.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [OldNewExplorer](https://www.majorgeeks.com/files/details/oldnewexplorer.html) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
 - [UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/pt/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+- [StartAllBack](https://www.startallback.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+- [OldNewExplorer](https://www.majorgeeks.com/files/details/oldnewexplorer.html) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+- [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
 
-## License
+<!-- ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) -->
