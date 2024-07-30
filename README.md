@@ -26,6 +26,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [VLC](https://www.videolan.org/vlc/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
 
 - [Scoop](https://github.com/ThomasNieto/Scoop) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [onecommander](https://www.onecommander.com/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [Attribute Changer](https://www.petges.lu/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [carapace-bin](https://carapace-sh.github.io/carapace-bin/carapace-bin.html) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
@@ -36,15 +37,22 @@ images, screenshots, GIFs, text formatting, etc.
     - [glow](https://github.com/charmbracelet/glow) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [webtorrent](https://webtorrent.io/desktop/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
     - [kondo](https://github.com/tbillington/kondo) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [lockhunter](https://lockhunter.com/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [moneyregex](https://moneymanagerex.org/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [ndm](https://github.com/720kb/ndm) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [onefetch](https://github.com/o2sh/onefetch?tab=readme-ov-file) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [powertoys](https://github.com/microsoft/PowerToys) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
 
 
-## Tema
 
-- [Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/pt/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [StartAllBack](https://www.startallback.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [OldNewExplorer](https://www.majorgeeks.com/files/details/oldnewexplorer.html) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-- [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+#### For Testing
+
+- [Scoop](https://github.com/ThomasNieto/Scoop)
+    - [nexusfont](https://www.xiles.app/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+    - [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [picotorrent](https://github.com/picotorrent/picotorrent) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+    - [processhacker](https://processhacker.sourceforge.io/) - *Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.*
+
 
 <!-- ## License
 
