@@ -5,25 +5,25 @@
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambiente Windows. Encontre pacotes para melhorar a estética, produtividade e funcionalidade do sistema operacional.
 
+## tema
 
-## Tema
+-   [Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+-   [UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/) - Permite a instalação de temas de terceiros no Windows.
+-   [StartAllBack](https://www.startallback.com/)- Restaura e melhora o menu iniciar e a barra de tarefas do Windows.
+-   [OldNewExplorer](https://learn.microsoft.com/pt-br/powershell/) - Personalize o Explorer do Windows para um estilo mais clássico.
+    -   [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Adiciona efeitos de desfoque e Mica ao Explorer.
+    -   [translucenttb](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows transparente e customizável.
 
-   - [Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-   - [UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/) - Permite a instalação de temas de terceiros no Windows.
-   - [StartAllBack](https://www.startallback.com/)- Restaura e melhora o menu iniciar e a barra de tarefas do Windows.
-   - [OldNewExplorer](https://learn.microsoft.com/pt-br/powershell/) - Personalize o Explorer do Windows para um estilo mais clássico.
-      - [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) -  Adiciona efeitos de desfoque e Mica ao Explorer.
-     - [translucenttb](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows transparente e customizável.
-
-## Apps
+## .exe & winget
 
 -   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
 -   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
 -   [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
 
-    -   [winget-install](https://github.com/asheroto/winget-install) -  Ferramenta para simplificar a instalação de aplicativos via Winget.
+    -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget.
     -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
+
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
 -   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
 -   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
@@ -36,10 +36,14 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambient
 -   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
 -   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 -   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
+-   [Clockify](https://app.clockify.me/en/login)
+-   [Remote Mouse](https://www.remotemouse.net/)
 
 :wavy_dash:
 
--   [Scoop](https://github.com/ThomasNieto/Scoop) -  Gerenciador de pacotes para facilitar a instalação de software no Windows.
+## scoop apps
+
+-   [Scoop](https://github.com/ThomasNieto/Scoop) - Gerenciador de pacotes para facilitar a instalação de software no Windows.
     -   [onecommander](https://www.onecommander.com/) - Explorer.exe moderno e intuitivo.
     -   [powertoys](https://github.com/microsoft/PowerToys) - Conjunto de utilitários para aumentar a produtividade no Windows.
     -   [Attribute Changer](https://www.petges.lu/) - Ferramenta para alterar atributos de arquivos e pastas.
@@ -52,9 +56,9 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambient
     -   [transmission](https://transmissionbt.com/) - Cliente BitTorrent leve e poderoso.
     -   [kondo](https://github.com/tbillington/kondo) - Limpe diretórios de projetos com facilidade.
     -   [lockhunter](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
-    -   [moneyregex](https://moneymanagerex.org/) - Gerenciador financeiro pessoal de código aberto.
     -   [ndm](https://github.com/720kb/ndm) - Gerenciador de pacotes para Node.js com interface gráfica.
     -   [onefetch](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Exibe informações e dados do repositório Git graficamentebonita.
+    -   [winfetch](https://github.com/lptstr/winfetch) -
     -   [openvpn](https://openvpn.net/) - Cliente VPN seguro e de código aberto.
     -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
     -   [rstudio](https://posit.co/products/open-source/rstudio/) - Ambiente de desenvolvimento integrado para R.
@@ -65,13 +69,18 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambient
     -   [terminal-icons](https://github.com/devblackops/Terminal-Icons) - Adicione ícones ao seu terminal para uma melhor visualização.
     -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
     -   [imagemagick](https://imagemagick.org/) - Conjunto de ferramentas para criar, editar e compor imagens.
-    -   [csview](https://github.com/wfxr/csview) - Visualizador de arquivos CSV rápido e eficiente.
+    -   [csview](https://github.com/wfxr/csview) - Visualizador de arquivos CSV via terminal.
+    -   [ccleaner](https://www.ccleaner.com/ccleaner) -
+    -   [python](https://www.python.org/) -
+    -   [wrangler](https://developers.cloudflare.com/workers/tooling/wrangler) - Cloudflare CLI.
+    -   [firefox-developer](https://www.mozilla.org/en-US/firefox/developer/) - Navegador secundário.
+    -   [spotify](https://www.spotify.com/) - Player principal.
+    -   [spicetify](https://spicetify.app/docs/advanced-usage/installation) - Super lightweight player & Developer Tools para Spotify.
 
-
-
-#### Still Testing
+#### interesting testing
 
 -   [Scoop](https://github.com/ThomasNieto/Scoop)
+    -   [moneyregex](https://moneymanagerex.org/) - Gerenciador financeiro pessoal de código aberto.
     -   [nexusfont](https://www.xiles.app/) - Gerenciador de fontes leve e eficiente.
     -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Ferramenta para manipular arquivos PDF.
     -   [picotorrent](https://github.com/picotorrent/picotorrent) - Cliente BitTorrent pequeno e rápido.
