@@ -3,77 +3,83 @@
 > Workflow indispensável para Windows
 > <img src="icon.png" align="right"/>
 
-Undequos dolores vel dolores odio ullam quo nihil id aut quam minima. Quaefacilis quae hic modi dolore, ut dolor illo hic animi, id. Vitaevero tempora natus quam dolores vitae eos dolores harum dolore facilis vel, dolor quo autem tempore! Ametsed dolor tempora quis in odit minima culpa dolore unde laborum, hic vitae, at. Iustocumque iusto quis facilis ad dolore quas at nesciunt totam. Facilisquo laborum, sunt natus quis dolores sit odio eos at odit nesciunt. Quovelit, elit facilis odit nihil quae nesciunt vitae cumque quis alias quae ratione sint. Idipsum rem sint ipsum rem ea, odit vel autem ratione animi vel facilis modi animi facilis.
+Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambiente Windows. Encontre pacotes para melhorar a estética, produtividade e funcionalidade do sistema operacional.
 
 
 ## Tema
 
-[Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-[UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-[StartAllBack](https://www.startallback.com/)- Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-[OldNewExplorer](https://learn.microsoft.com/pt-br/powershell/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-[ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+   - [Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+   - [UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/) - Permite a instalação de temas de terceiros no Windows.
+   - [StartAllBack](https://www.startallback.com/)- Restaura e melhora o menu iniciar e a barra de tarefas do Windows.
+   - [OldNewExplorer](https://learn.microsoft.com/pt-br/powershell/) - Personalize o Explorer do Windows para um estilo mais clássico.
+      - [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) -  Adiciona efeitos de desfoque e Mica ao Explorer.
+     - [translucenttb](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows transparente e customizável.
 
 ## Apps
 
--   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [OpenVPN](https://openvpn.net/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+-   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
+-   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
+-   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
+-   [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
 
-    -   [winget-install](https://github.com/asheroto/winget-install) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-
--   [Arc](https://arc.net/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Flow Launcher](https://www.flowlauncher.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Oh My Posh](https://ohmyposh.dev/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [7-Zip](https://7-zip.org/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [FontBase](https://fontba.se/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [VSCode](https://code.visualstudio.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Glary Utilities](https://www.glarysoft.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Thunderbird](https://www.thunderbird.net/pt-BR/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [VLC](https://www.videolan.org/vlc/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Photoshop](https://www.adobe.com/br/products/photoshop.html) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
--   [Illustrator](https://www.adobe.com/br/products/illustrator.html) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
+    -   [winget-install](https://github.com/asheroto/winget-install) -  Ferramenta para simplificar a instalação de aplicativos via Winget.
+    -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
+-   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
+-   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
+-   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
+-   [Oh My Posh](https://ohmyposh.dev/) - Personalize seu prompt de terminal com temas e funcionalidades avançadas.
+-   [7-Zip](https://7-zip.org/) - Utilitário de compactação de arquivos de código aberto.
+-   [FontBase](https://fontba.se/) - Gerenciador de fontes avançado e intuitivo.
+-   [VSCode](https://code.visualstudio.com/) - Editor de código-fonte leve e poderoso da Microsoft.
+-   [Glary Utilities](https://www.glarysoft.com/) - Conjunto de ferramentas para otimizar e melhorar o desempenho do seu PC.
+-   [Thunderbird](https://www.thunderbird.net/pt-BR/) - Cliente de e-mail gratuito e de código aberto.
+-   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
+-   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
+-   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 
 :wavy_dash:
 
--   [Scoop](https://github.com/ThomasNieto/Scoop) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [onecommander](https://www.onecommander.com/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [powertoys](https://github.com/microsoft/PowerToys) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [Attribute Changer](https://www.petges.lu/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [carapace-bin](https://carapace-sh.github.io/carapace-bin/carapace-bin.html) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [defraggler](https://www.ccleaner.com/defraggler) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [easy-context-menu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [gitui](https://github.com/extrawurst/gitui) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [lazygit](https://github.com/jesseduffield/lazygit) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [glow](https://github.com/charmbracelet/glow) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [webtorrent](https://webtorrent.io/desktop/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [kondo](https://github.com/tbillington/kondo) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [lockhunter](https://lockhunter.com/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [moneyregex](https://moneymanagerex.org/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [ndm](https://github.com/720kb/ndm) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [onefetch](https://github.com/o2sh/onefetch?tab=readme-ov-file) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [openvpn](https://openvpn.net/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [r studio](https://posit.co/products/open-source/rstudio/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [sidebar-diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [snappy-driver-installer-origin](https://www.snappy-driver-installer.org/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [sonic-pi](https://sonic-pi.net/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [space-radar](https://github.com/zz85/space-radar) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [terminal-icons](https://github.com/devblackops/Terminal-Icons) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
+-   [Scoop](https://github.com/ThomasNieto/Scoop) -  Gerenciador de pacotes para facilitar a instalação de software no Windows.
+    -   [onecommander](https://www.onecommander.com/) - Explorer.exe moderno e intuitivo.
+    -   [powertoys](https://github.com/microsoft/PowerToys) - Conjunto de utilitários para aumentar a produtividade no Windows.
+    -   [Attribute Changer](https://www.petges.lu/) - Ferramenta para alterar atributos de arquivos e pastas.
+    -   [carapace-bin](https://carapace-sh.github.io/carapace-bin/carapace-bin.html) - Completa comandos em várias ferramentas de linha de comando.
+    -   [defraggler](https://www.ccleaner.com/defraggler) - Desfragmentador de disco simples e eficiente.
+    -   [easy-context-menu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - Personalize o menu de contexto do Windows.
+    -   [gitui](https://github.com/extrawurst/gitui) - Interface gráfica rápida e intuitiva para o Git.
+    -   [lazygit](https://github.com/jesseduffield/lazygit) - Cliente Git simples e rápido para a linha de comando.
+    -   [glow](https://github.com/charmbracelet/glow) - Visualizador de Markdown para a linha de comando.
+    -   [transmission](https://transmissionbt.com/) - Cliente BitTorrent leve e poderoso.
+    -   [kondo](https://github.com/tbillington/kondo) - Limpe diretórios de projetos com facilidade.
+    -   [lockhunter](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
+    -   [moneyregex](https://moneymanagerex.org/) - Gerenciador financeiro pessoal de código aberto.
+    -   [ndm](https://github.com/720kb/ndm) - Gerenciador de pacotes para Node.js com interface gráfica.
+    -   [onefetch](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Exibe informações e dados do repositório Git graficamentebonita.
+    -   [openvpn](https://openvpn.net/) - Cliente VPN seguro e de código aberto.
+    -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
+    -   [rstudio](https://posit.co/products/open-source/rstudio/) - Ambiente de desenvolvimento integrado para R.
+    -   [sidebar-diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Monitore o hardware do seu PC diretamente na barra lateral.
+    -   [snappy-driver-installer-origin](https://www.snappy-driver-installer.org/) - Ferramenta para instalar e atualizar drivers automaticamente.
+    -   [sonic-pi](https://sonic-pi.net/) - Ferramenta para criar música com código.
+    -   [space-radar](https://github.com/zz85/space-radar) - Visualize o uso de espaço em disco com gráficos interativos.
+    -   [terminal-icons](https://github.com/devblackops/Terminal-Icons) - Adicione ícones ao seu terminal para uma melhor visualização.
+    -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
+    -   [imagemagick](https://imagemagick.org/) - Conjunto de ferramentas para criar, editar e compor imagens.
+    -   [csview](https://github.com/wfxr/csview) - Visualizador de arquivos CSV rápido e eficiente.
+
 
 
 #### Still Testing
 
 -   [Scoop](https://github.com/ThomasNieto/Scoop)
-    -   [nexusfont](https://www.xiles.app/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
-    -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [picotorrent](https://github.com/picotorrent/picotorrent) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [processhacker](https://processhacker.sourceforge.io/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [pscolor](https://github.com/Davlind/PSColor?tab=readme-ov-file) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [shiba](https://github.com/rhysd/Shiba) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
-    -   [sonic-visualiser](https://www.sonicvisualiser.org/) - _Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo._
+    -   [nexusfont](https://www.xiles.app/) - Gerenciador de fontes leve e eficiente.
+    -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Ferramenta para manipular arquivos PDF.
+    -   [picotorrent](https://github.com/picotorrent/picotorrent) - Cliente BitTorrent pequeno e rápido.
+    -   [processhacker](https://processhacker.sourceforge.io/) - Ferramenta para visualizar e gerenciar processos e serviços do Windows.
+    -   [pscolor](https://github.com/Davlind/PSColor?tab=readme-ov-file) - Adiciona cores ao PowerShell para melhor legibilidade.
+    -   [shiba](https://github.com/rhysd/Shiba) - Visualizador de Markdown com renderização em tempo real.
+    -   [sonic-visualiser](https://www.sonicvisualiser.org/) - Ferramenta para análise de áudio detalhada.
+    -   [processhacker](https://processhacker.sourceforge.io/) - Ferramenta poderosa e multifuncional que ajuda você a monitorar recursos do sistema, depurar software e detectar malware.
 
 <!-- ## License
 
