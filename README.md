@@ -1,6 +1,6 @@
-# WinFlow [![WinFlow](C:/Users/Rose/Desktop/Repos/WinFlow/screenshot-2024-07-31-230415.png)](C:/Users/Rose/Desktop/Repos/WinFlow/screenshot-2024-07-31-230415.png)
+# WinFlow [![WinFlow](./screenshot-2024-07-31-230415.png)](./screenshot-2024-07-31-230415.png)
 
-![screenshot](C:/Users/Rose/Desktop/Repos/WinFlow/screenshot-2024-07-31-230819.png)
+![screenshot](./screenshot-2024-07-31-230819.png)
 
 > .dotfiles
 
