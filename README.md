@@ -16,6 +16,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [Glary Utilities](https://www.glarysoft.com/) - Conjunto de ferramentas para otimizar e melhorar o desempenho do seu PC. *[instalação manual]*
 -   [Clockify](https://app.clockify.me/en/login) - *[instalação manual]*
 -   [Remote Mouse](https://www.remotemouse.net/) - *[instalação manual]*
+-   [VisiData](https://www.visidata.org/) - *[instalação manual]*
 -   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 -   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 
@@ -106,7 +107,3 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
  - [shiba](https://github.com/rhysd/Shiba) - Visualizador de Markdown com renderização em tempo real.
  - [sonic-visualiser](https://www.sonicvisualiser.org/) - Ferramenta para análise de áudio detalhada.
  - [runasti](https://github.com/jschicht/RunAsTI) - Launch processes with TrustedInstaller privilege.
-
-<!-- ## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) -->
