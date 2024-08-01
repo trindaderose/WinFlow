@@ -1,6 +1,6 @@
 # WinFlow [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-> Workflow indispensável para Windows
+> .dotfiles
 > <img src="icon.png" align="right"/>
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambiente Windows. Encontre pacotes para melhorar a estética, produtividade e funcionalidade do sistema operacional.
@@ -64,7 +64,6 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambient
     -   [rstudio](https://posit.co/products/open-source/rstudio/) - Ambiente de desenvolvimento integrado para R.
     -   [sidebar-diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Monitore o hardware do seu PC diretamente na barra lateral.
     -   [snappy-driver-installer-origin](https://www.snappy-driver-installer.org/) - Ferramenta para instalar e atualizar drivers automaticamente.
-    -   [sonic-pi](https://sonic-pi.net/) - Ferramenta para criar música com código.
     -   [space-radar](https://github.com/zz85/space-radar) - Visualize o uso de espaço em disco com gráficos interativos.
     -   [terminal-icons](https://github.com/devblackops/Terminal-Icons) - Adicione ícones ao seu terminal para uma melhor visualização.
     -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
@@ -80,7 +79,12 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambient
 #### interesting testing
 
 -   [Scoop](https://github.com/ThomasNieto/Scoop)
+:zap: instalados:
+    -   [sampler](https://github.com/sqshq/sampler?tab=readme-ov-file) - Ferramenta para criar música com código.
+    -   [sonic-pi](https://sonic-pi.net/) - Ferramenta para criar música com código.
     -   [moneyregex](https://moneymanagerex.org/) - Gerenciador financeiro pessoal de código aberto.
+
+:raising_hand: outros
     -   [nexusfont](https://www.xiles.app/) - Gerenciador de fontes leve e eficiente.
     -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Ferramenta para manipular arquivos PDF.
     -   [picotorrent](https://github.com/picotorrent/picotorrent) - Cliente BitTorrent pequeno e rápido.
@@ -88,8 +92,8 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o seu ambient
     -   [pscolor](https://github.com/Davlind/PSColor?tab=readme-ov-file) - Adiciona cores ao PowerShell para melhor legibilidade.
     -   [shiba](https://github.com/rhysd/Shiba) - Visualizador de Markdown com renderização em tempo real.
     -   [sonic-visualiser](https://www.sonicvisualiser.org/) - Ferramenta para análise de áudio detalhada.
-    -   [processhacker](https://processhacker.sourceforge.io/) - Ferramenta poderosa e multifuncional que ajuda você a monitorar recursos do sistema, depurar software e detectar malware.
-
+    -   [processhacker](https://processhacker.sourceforge.io/) -
+    -   [runasti](https://github.com/jschicht/RunAsTI) -
 <!-- ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) -->
