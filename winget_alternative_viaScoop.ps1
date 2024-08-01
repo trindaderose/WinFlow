@@ -5,24 +5,17 @@ if (-not (Get-Command scoop -ErrorAction SilentlyContinue)) {
 }
 
 $packages = @(
-    'googlechrome',
-    'onecommander',
-    'easy-context-menu',
-    'powertoys',
-    'attribute-changer',
-    'defraggler',
-    'winfetch',
-    'space-radar',
-    'ccleaner',
-    'transmission',
-    'lockhunter',
-    'spotify',
-    'discord',
+    'pwsh',
+    '7zip',
+    'winget',
     'openvpn',
-    'openssl',
-    'windowsspyblocker',
-    'snappy-driver-installer-origin',
-    'sidebar-diagnostics'
+    'openvpn-connect',
+    'vscode',
+    'winget',
+    'flow-launcher',
+    'oh-my-posh',
+    'fontbase',
+    'vlc',
 )
 
 foreach ($package in $packages) {

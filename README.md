@@ -6,34 +6,35 @@
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
 
-## .exe & winget
+## :gem: .exe & winget
 [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
-   -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget.
-   -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
 
--   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
--   [7-Zip](https://7-zip.org/) - Utilitário de compactação de arquivos de código aberto.
--   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
--   [VSCode](https://code.visualstudio.com/) - Editor de código-fonte.
--   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
--   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
-
-
--   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
--   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
--   [Oh My Posh](https://ohmyposh.dev/) - Personalize seu prompt de terminal com temas e funcionalidades avançadas.
--   [Glary Utilities](https://www.glarysoft.com/) - Conjunto de ferramentas para otimizar e melhorar o desempenho do seu PC.
--   [Thunderbird](https://www.thunderbird.net/pt-BR/) - Cliente de e-mail gratuito e de código aberto.
--   [FontBase](https://fontba.se/) - Gerenciador de fontes.
--   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
--   [Clockify](https://app.clockify.me/en/login)
--   [Remote Mouse](https://www.remotemouse.net/)
+-   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável. *[instalação manual]*
+   -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget. *[instalação manual]*
+   -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget. *[instalação manual]*
+-   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes. *[instalação manual]*
+-   [Glary Utilities](https://www.glarysoft.com/) - Conjunto de ferramentas para otimizar e melhorar o desempenho do seu PC. *[instalação manual]*
+-   [Clockify](https://app.clockify.me/en/login) - *[instalação manual]*
+-   [Remote Mouse](https://www.remotemouse.net/) - *[instalação manual]*
 -   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 -   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 
 :wavy_dash:
 
-## scoop apps
+-   [7-Zip](https://7-zip.org/) - Utilitário de compactação de arquivos de código aberto.
+-   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
+-   [VSCode](https://code.visualstudio.com/) - Editor de código-fonte.
+-   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
+-   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
+-   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
+-   [Oh My Posh](https://ohmyposh.dev/) - Personalize seu prompt de terminal com temas e funcionalidades avançadas.
+-   [Thunderbird](https://www.thunderbird.net/pt-BR/) - Cliente de e-mail gratuito e de código aberto.
+-   [FontBase](https://fontba.se/) - Gerenciador de fontes.
+-   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
+
+:wavy_dash:
+
+## :ice_cream: scoop apps
 [Scoop](https://github.com/ThomasNieto/Scoop) - Gerenciador de pacotes para facilitar a instalação de software no Windows.
 
 :small_blue_diamond: Windows context:
@@ -50,15 +51,16 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
    -   [ccleaner](https://www.ccleaner.com/ccleaner) - Ferramenta de limpeza para Windows.
    -   [lockhunter](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
    -   [spotify](https://www.spotify.com/) - Player principal.
+   -   [discord](https://discord.com/) - Free Voice and Text Chat
    -   [openvpn](https://openvpn.net/) - Cliente VPN seguro e de código aberto.
    -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
    -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
    -   [snappy-driver-installer-origin](https://www.snappy-driver-installer.org/) - Ferramenta para instalar e atualizar drivers automaticamente.
    -   [sidebar-diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Monitore o hardware do seu PC iretamente na barra lateral.
 
-:small_blue_diamond: Dev context:
+:deciduous_tree: Dev context:
 
-   -   [git](https://git-scm.com/)
+   -   [git](https://git-scm.com/) - Git CLI.
    -   [nodejs](https://nodejs.org) - An asynchronous event driven JavaScript runtime designed to build scalable network applications.
    -   [gitui](https://github.com/extrawurst/gitui) - Interface gráfica rápida e intuitiva para o Git.
    -   [lazygit](https://github.com/jesseduffield/lazygit) - Cliente Git simples e rápido para a linha de comando.
@@ -76,7 +78,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
    -   [python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
    -   [rstudio](https://posit.co/products/open-source/rstudio/) - Ambiente de desenvolvimento integrado para R.
 
-## tema
+## :sunflower: tema
 
 -   [Vin Star](https://www.vinstartheme.com/) - Laborumut illo ad vitae cumque vero neque hic sint tempora autem illo.
 -   [UltraUXThemePatcher](https://www.ultrauxthemepatcher.com/) - Permite a instalação de temas de terceiros no Windows.
@@ -87,7 +89,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 :wavy_dash:
 
-#### interesting testing via scoop
+#### :icecream: interesting testing via scoop
 
 :ghost: instalados:
 
