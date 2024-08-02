@@ -17,8 +17,8 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [Clockify](https://app.clockify.me/en/login) - *[instalação manual]*
 -   [Remote Mouse](https://www.remotemouse.net/) - *[instalação manual]*
 -   [VisiData](https://www.visidata.org/) - *[instalação manual]*
--   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
--   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
+-   [Photoshop](https://www.adobe.com/br/products/photoshop.html) *[instalação manual]*
+-   [Illustrator](https://www.adobe.com/br/products/illustrator.html) *[instalação manual]*
 
 :wavy_dash:
 
@@ -32,6 +32,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [Thunderbird](https://www.thunderbird.net/pt-BR/) - Cliente de e-mail gratuito e de código aberto.
 -   [FontBase](https://fontba.se/) - Gerenciador de fontes.
 -   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
+-   [Spotify](https://www.spotify.com/) - Player principal.
 
 :wavy_dash:
 
@@ -51,7 +52,6 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
    -   [space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js.
    -   [ccleaner](https://www.ccleaner.com/ccleaner) - Ferramenta de limpeza para Windows.
    -   [lockhunter](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
-   -   [spotify](https://www.spotify.com/) - Player principal.
    -   [discord](https://discord.com/) - Free Voice and Text Chat
    -   [openvpn](https://openvpn.net/) - Cliente VPN seguro e de código aberto.
    -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
