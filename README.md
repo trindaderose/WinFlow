@@ -5,12 +5,16 @@
 > .dotfiles
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
+## :gem: system
+
+[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/#sysinternals-live) - Advanced system utilities and technical information. *[standalone]*
+[ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information. *[standalone]*
+[GUIPropView](https://www.nirsoft.net/utils/gui_prop_view.html) - Advanced system utilities and technical information. *[standalone]*
 
 ## :gem: .exe & winget
 [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
    -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget. *[instalação manual]*
    -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget. *[instalação manual]*
-[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/#sysinternals-live) - Advanced system utilities and technical information. *[instalação manual]*
 
 -   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável. *[instalação manual]*
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes. *[instalação manual]*
