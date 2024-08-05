@@ -8,10 +8,11 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 ## :gem: .exe & winget
 [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
-
--   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável. *[instalação manual]*
    -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget. *[instalação manual]*
    -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget. *[instalação manual]*
+[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/#sysinternals-live) - Advanced system utilities and technical information. *[instalação manual]*
+
+-   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável. *[instalação manual]*
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes. *[instalação manual]*
 -   [Glary Utilities](https://www.glarysoft.com/) - Conjunto de ferramentas para otimizar e melhorar o desempenho do seu PC. *[instalação manual]*
 -   [Clockify](https://app.clockify.me/en/login) - *[instalação manual]*
