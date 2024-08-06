@@ -1,15 +1,17 @@
-# WinFlow [![WinFlow](./screenshot-2024-07-31-230415.png)](./screenshot-2024-07-31-230415.png)
+# WinFlow [![WinFlow](./logo.png)](./logo.png)
 
 ![screenshot](./screenshot-2024-07-31-230819.png)
 
-> .dotfiles
+> .dotfiles >> dependencies
+
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
-## :gem: system
+## :guardsman: system
 
 [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/#sysinternals-live) - Advanced system utilities and technical information. *[standalone]*
 [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information. *[standalone]*
 [GUIPropView](https://www.nirsoft.net/utils/gui_prop_view.html) - Advanced system utilities and technical information. *[standalone]*
+
 
 ## :gem: .exe & winget
 [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
@@ -72,6 +74,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
    -   [lazygit](https://github.com/jesseduffield/lazygit) - Cliente Git simples e rápido para a linha de comando.
    -   [spicetify](https://spicetify.app/docs/advanced-usage/installation) - Super lightweight player & Developer Tools para Spotify.
    -   [terminal-icons](https://github.com/devblackops/Terminal-Icons) - Adicione ícones ao terminal.
+   -   [cygwin](https://cygwin.com/) - A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows.
    -   [ndm](https://github.com/720kb/ndm) - Gerenciador de pacotes para Node.js com interface gráfica.
    -   [glow](https://github.com/charmbracelet/glow) - Visualizador de Markdown para a linha de comando.
    -   [kondo](https://github.com/tbillington/kondo) - Limpe diretórios de projetos com facilidade.
