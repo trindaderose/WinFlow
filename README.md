@@ -68,6 +68,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [git](https://git-scm.com/) - Git CLI.
 -   [nodejs](https://nodejs.org) - An asynchronous event driven JavaScript runtime designed to build scalable network applications.
 -   [gitui](https://github.com/extrawurst/gitui) - Interface gráfica rápida e intuitiva para o Git.
+-   [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands.
 -   [spicetify](https://spicetify.app/docs/advanced-usage/installation) - Super lightweight player & Developer Tools para Spotify.
 -   [terminal-icons](https://github.com/devblackops/Terminal-Icons) - Adicione ícones ao terminal.
 -   [cygwin](https://cygwin.com/) - A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows.
