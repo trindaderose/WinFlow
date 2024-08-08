@@ -50,7 +50,8 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [googlechrome](https://www.google.com/intl/pt-BR/chrome/) - Chrome.
 -   [onecommander](https://www.onecommander.com/) - Explorer.exe moderno e intuitivo.
 -   [oh-my-posh](https://ohmyposh.dev/) - A prompt theme engine for any shell.
--   [nexusfont](https://www.xiles.app/) - Gerenciador de fontes leve e eficiente.
+-   [nexusfont](https://www.xiles.app/) - Gerenciador de fontes leve.
+-   [fontbase](https://fontba.se/) - Gerenciador de fontes eficiente.
 -   [easy-context-menu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - Personalize o menu de contexto do Windows.
 -   [powertoys](https://github.com/microsoft/PowerToys) - Conjunto de utilitários para aumentar a produtividade no Windows.
 -   [attribute-changer](https://www.petges.lu/) - Ferramenta para alterar atributos de arquivos e pastas.
@@ -60,7 +61,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js.
 -   [ccleaner](https://www.ccleaner.com/ccleaner) - Ferramenta de limpeza para Windows.
 -   [lockhunter](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
--   [discord](https://discord.com/) - Free Voice and Text Chat
+-   [discord](https://discord.com/) - Free Voice and Text Chat.
 -   [openvpn-connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente VPN seguro e de código aberto.
 -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
 -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
