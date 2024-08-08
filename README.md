@@ -8,24 +8,19 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 ## :guardsman: system
 
-[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/#sysinternals-live) - Advanced system utilities and technical information. _[standalone]_
 [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information. _[standalone]_
 [GUIPropView](https://www.nirsoft.net/utils/gui_prop_view.html) - Advanced system utilities and technical information. _[standalone]_
 [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
 
 ## :gem: .exe & winget
 
-[Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
-
+-   [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
 -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget. _[instalação manual]_
 -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget. _[instalação manual]_
-
 -   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável. _[instalação manual]_
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes. _[instalação manual]_
--   [Glary Utilities](https://www.glarysoft.com/) - Conjunto de ferramentas para otimizar e melhorar o desempenho do seu PC. _[instalação manual]_
--   [Clockify](https://app.clockify.me/en/login) - _[instalação manual]_
--   [Remote Mouse](https://www.remotemouse.net/) - _[instalação manual]_
--   [VisiData](https://www.visidata.org/) - _[instalação manual]_
+-   [Remote Mouse](https://www.remotemouse.net/) _[instalação manual]_
+-   [VisiData](https://www.visidata.org/) _[instalação manual]_
 -   [Photoshop](https://www.adobe.com/br/products/photoshop.html) _[instalação manual]_
 -   [Illustrator](https://www.adobe.com/br/products/illustrator.html) _[instalação manual]_
 
@@ -36,7 +31,6 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [VSCode](https://code.visualstudio.com/) - Editor de código-fonte.
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
 -   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
--   [Thunderbird](https://www.thunderbird.net/pt-BR/) - Cliente de e-mail gratuito e de código aberto.
 -   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
 -   [Spotify](https://www.spotify.com/) - Player principal.
 -   [Color LS](https://github.com/athityakumar/colorls?tab=readme-ov-file) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
@@ -47,6 +41,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 [Scoop](https://github.com/ThomasNieto/Scoop) - Gerenciador de pacotes para facilitar a instalação de software no Windows.
 
+-   [git](https://git-scm.com/) - Git CLI.
 -   [googlechrome](https://www.google.com/intl/pt-BR/chrome/) - Chrome.
 -   [onecommander](https://www.onecommander.com/) - Explorer.exe moderno e intuitivo.
 -   [oh-my-posh](https://ohmyposh.dev/) - A prompt theme engine for any shell.
@@ -66,7 +61,6 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
 -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
 -   [snappy-driver-installer-origin](https://www.snappy-driver-installer.org/) - Ferramenta para instalar e atualizar drivers automaticamente.
--   [git](https://git-scm.com/) - Git CLI.
 -   [nodejs](https://nodejs.org) - An asynchronous event driven JavaScript runtime designed to build scalable network applications.
 -   [gitui](https://github.com/extrawurst/gitui) - Interface gráfica rápida e intuitiva para o Git.
 -   [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands.
@@ -84,6 +78,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [firefox-developer](https://www.mozilla.org/en-US/firefox/developer/) - Navegador secundário.
 -   [python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
 -   [rstudio](https://posit.co/products/open-source/rstudio/) - Ambiente de desenvolvimento integrado para R.
+-   [vscode](https://code.visualstudio.com/) - Visual Studio Code.
 
 ## :sunflower: tema
 
