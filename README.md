@@ -1,6 +1,6 @@
 # WinFlow [![WinFlow](./logo.png)](./logo.png)
 
-![screenshot](./screenshot.png)
+![screenshot](./onefetch.png)
 
 > .dotfiles
 
