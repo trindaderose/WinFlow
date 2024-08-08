@@ -2,7 +2,7 @@
 
 ![screenshot](./screenshot.png)
 
-> .dotfiles >> dependencies
+> .dotfiles
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
 
