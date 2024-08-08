@@ -27,12 +27,9 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 :wavy_dash:
 
 -   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
--   [7-Zip](https://7-zip.org/) - Utilitário de compactação de arquivos de código aberto.
--   [VSCode](https://code.visualstudio.com/) - Editor de código-fonte.
+-   [Spotify](https://www.spotify.com/) - Player principal.
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
 -   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
--   [VLC](https://www.videolan.org/vlc/) - Reprodutor multimídia versátil e de código aberto.
--   [Spotify](https://www.spotify.com/) - Player principal.
 -   [Color LS](https://github.com/athityakumar/colorls?tab=readme-ov-file) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
 
 :wavy_dash:
@@ -42,22 +39,22 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 [Scoop](https://github.com/ThomasNieto/Scoop) - Gerenciador de pacotes para facilitar a instalação de software no Windows.
 
 -   [git](https://git-scm.com/) - Git CLI.
+-   [7zip](https://www.7-zip.org/) - Zip.
+-   [vlc](https://www.videolan.org/vlc/) - Video Player.
 -   [googlechrome](https://www.google.com/intl/pt-BR/chrome/) - Chrome.
 -   [onecommander](https://www.onecommander.com/) - Explorer.exe moderno e intuitivo.
 -   [oh-my-posh](https://ohmyposh.dev/) - A prompt theme engine for any shell.
--   [nexusfont](https://www.xiles.app/) - Gerenciador de fontes leve.
 -   [fontbase](https://fontba.se/) - Gerenciador de fontes eficiente.
 -   [easy-context-menu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - Personalize o menu de contexto do Windows.
 -   [powertoys](https://github.com/microsoft/PowerToys) - Conjunto de utilitários para aumentar a produtividade no Windows.
 -   [attribute-changer](https://www.petges.lu/) - Ferramenta para alterar atributos de arquivos e pastas.
 -   [defraggler](https://www.ccleaner.com/defraggler) - Desfragmentador de disco simples e eficiente.
 -   [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility for Windows (same as >onefetch for repos)
--   [transmission](https://transmissionbt.com/) - Cliente BitTorrent leve e light.
+-   [transmission](https://transmissionbt.com/) - Cliente BitTorrent leve.
 -   [space-radar](https://github.com/zz85/space-radar) - Disk And Memory Space Visualization App built with Electron & d3.js.
 -   [ccleaner](https://www.ccleaner.com/ccleaner) - Ferramenta de limpeza para Windows.
 -   [lockhunter](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
 -   [discord](https://discord.com/) - Free Voice and Text Chat.
--   [openvpn-connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente VPN seguro e de código aberto.
 -   [openssl](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Ferramenta robusta para criptografia e SSL/TLS.
 -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
 -   [snappy-driver-installer-origin](https://www.snappy-driver-installer.org/) - Ferramenta para instalar e atualizar drivers automaticamente.
@@ -90,14 +87,11 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [translucenttb](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows transparente e customizável.
 -   [SecureUxTheme](https://github.com/namazso/SecureUxTheme) - A secure boot compatible in-memory UxTheme patcher.
 
-:wavy_dash:
-
 #### :icecream: interesting testing via scoop
 
 -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Graphical interface to PDF ToolKit for document manipulation (merge, split, ...).
 -   [picotorrent](https://github.com/picotorrent/picotorrent) - Cliente BitTorrent pequeno e rápido.
 -   [processhacker](https://processhacker.sourceforge.io/) - Ferramenta para visualizar e gerenciar processos e serviços do Windows.
--   [pscolor](https://github.com/Davlind/PSColor?tab=readme-ov-file) - Adiciona cores ao PowerShell para melhor legibilidade.
 -   [shiba](https://github.com/rhysd/Shiba) - Visualizador de Markdown com renderização em tempo real.
 -   [sonic-visualiser](https://www.sonicvisualiser.org/) - Ferramenta para análise de áudio detalhada.
 -   [runasti](https://github.com/jschicht/RunAsTI) - Launch processes with TrustedInstaller privilege.
