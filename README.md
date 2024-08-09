@@ -8,7 +8,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 ## :guardsman: system
 
--   [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information. _[standalone]_
+-   [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information.
 -   [GUIPropView](https://www.nirsoft.net/utils/gui_prop_view.html) - Advanced system utilities and technical information.
 -   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
 
@@ -92,7 +92,6 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Graphical interface to PDF ToolKit for document manipulation (merge, split, ...).
 -   [picotorrent](https://github.com/picotorrent/picotorrent) - Cliente BitTorrent pequeno e rápido.
 -   [processhacker](https://processhacker.sourceforge.io/) - Ferramenta para visualizar e gerenciar processos e serviços do Windows.
--   [shiba](https://github.com/rhysd/Shiba) - Visualizador de Markdown com renderização em tempo real.
 -   [sonic-visualiser](https://www.sonicvisualiser.org/) - Ferramenta para análise de áudio detalhada.
 -   [runasti](https://github.com/jschicht/RunAsTI) - Launch processes with TrustedInstaller privilege.
 -   [moneyregex](https://moneymanagerex.org/) - Gerenciador financeiro pessoal de código aberto.
