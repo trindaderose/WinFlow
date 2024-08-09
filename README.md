@@ -8,21 +8,21 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 ## :guardsman: system
 
-[ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information. _[standalone]_
-[GUIPropView](https://www.nirsoft.net/utils/gui_prop_view.html) - Advanced system utilities and technical information. _[standalone]_
-[PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
+-   [ManageWirelessNetworks](https://www.nirsoft.net/utils/manage_wireless_networks.html) - Advanced system utilities and technical information. _[standalone]_
+-   [GUIPropView](https://www.nirsoft.net/utils/gui_prop_view.html) - Advanced system utilities and technical information.
+-   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
 
 ## :gem: .exe & winget
 
 -   [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
--   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget. _[instalação manual]_
--   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget. _[instalação manual]_
--   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável. _[instalação manual]_
--   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes. _[instalação manual]_
--   [Remote Mouse](https://www.remotemouse.net/) _[instalação manual]_
--   [VisiData](https://www.visidata.org/) _[instalação manual]_
--   [Photoshop](https://www.adobe.com/br/products/photoshop.html) _[instalação manual]_
--   [Illustrator](https://www.adobe.com/br/products/illustrator.html) _[instalação manual]_
+-   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget.
+-   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
+-   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
+-   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
+-   [Remote Mouse](https://www.remotemouse.net/)
+-   [VisiData](https://www.visidata.org/)
+-   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
+-   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 
 :wavy_dash:
 
