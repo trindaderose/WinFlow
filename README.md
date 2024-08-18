@@ -16,6 +16,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
 -   [Remote Mouse](https://www.remotemouse.net/) - Converta o seu celular num mouse.
 -   [VisiData](https://www.visidata.org/) - VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
+-   [App Buster](https://www.oo-software.com/en/ooappbuster) - Bust Apps you do not want!
 -   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
 -   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 
