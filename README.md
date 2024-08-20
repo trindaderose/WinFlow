@@ -4,6 +4,8 @@
 
 ![screenshot](./assets/onefetch.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trindaderose&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
 
 <!-- Se utiliza o Arc, salve em algum lugar seguro sua chave "arc_recovery_packet.txt" armazenada em C:\Users\%CURRENT_NAME%\Documents -->
@@ -46,6 +48,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [onecommander](https://www.onecommander.com/) - Explorer.exe moderno e intuitivo.
 -   [oh-my-posh](https://ohmyposh.dev/) - A prompt theme engine for any shell.
 -   [fontbase](https://fontba.se/) - Gerenciador de fontes eficiente.
+-   [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 -   [windowsspyblocker](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
 -   [easy-context-menu](https://www.sordum.org/7615/easy-context-menu-v1-6/) - Personalize o menu de contexto do Windows.
 -   [powertoys](https://github.com/microsoft/PowerToys) - Conjunto de utilitários para aumentar a produtividade no Windows.
@@ -74,6 +77,8 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [csview](https://github.com/wfxr/csview) - Visualizador de arquivos CSV via terminal.
 -   [firefox-developer](https://www.mozilla.org/en-US/firefox/developer/) - Navegador secundário.
 -   [python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
+-   [go](https://scoop.sh/#/apps?q=go&id=dcfaae18877d76da268d8ca08a42959611368208) - An open source programming language that makes it easy to build simple, reliable, and efficient software.
+-   [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file#installation) - Pretty fancy and modern terminal file manager
 -   [rstudio](https://posit.co/products/open-source/rstudio/) - Ambiente de desenvolvimento integrado para R.
 -   [vscode](https://code.visualstudio.com/) - Visual Studio Code.
 
@@ -93,7 +98,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 -   [click](https://github.com/pallets/click/) - Python composable command line interface toolkit
 
-#### :icecream: interesting testing via scoop
+<!-- #### :icecream: interesting testing via scoop
 
 -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Graphical interface to PDF ToolKit for document manipulation (merge, split, ...).
 -   [picotorrent](https://github.com/picotorrent/picotorrent) - Cliente BitTorrent pequeno e rápido.
@@ -102,7 +107,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [runasti](https://github.com/jschicht/RunAsTI) - Launch processes with TrustedInstaller privilege.
 -   [moneyregex](https://moneymanagerex.org/) - Gerenciador financeiro pessoal de código aberto.
 -   [sonic-pi](https://sonic-pi.net/) - Ferramenta para criar música com código.
--   [sampler](https://github.com/sqshq/sampler?tab=readme-ov-file) - A tool for shell commands execution, visualization and alerting.
+-   [sampler](https://github.com/sqshq/sampler?tab=readme-ov-file) - A tool for shell commands execution, visualization and alerting. -->
 
 #### todo :ghost:
 
@@ -111,3 +116,4 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [ ] mac version (whether pt or en)
 -   [ ] test "interesting" apps via scoop
 -   [ ] organize contexts
+-   [ ] organize dependencies & faves
