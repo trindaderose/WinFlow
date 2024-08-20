@@ -96,4 +96,4 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 -   [toga](https://toga.readthedocs.io/en/latest/index.html) - Toga is a Python native, OS native, cross platform GUI toolkit. Toga consists of a library of base components with a shared interface to simplify platform-agnostic GUI development.
 -   [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
--   [click](https://github.com/pallets/click/) - TUI and CLI for the BitTorrent client Transmission
+-   [click](https://github.com/pallets/click/) - Python composable command line interface toolkit
