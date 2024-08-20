@@ -1,10 +1,12 @@
 # WinFlow [![WinFlow](./logo.png)](./logo.png)
 
+> Format windows at its best
+
 ![screenshot](./onefetch.png)
 
-> .dotfiles
-
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
+
+<!-- Se utiliza o Arc, salve em algum lugar seguro sua chave "arc_recovery_packet.txt" armazenada em C:\Users\%CURRENT_NAME%\Documents -->
 
 ## :gem: .exe & winget
 
@@ -16,16 +18,16 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
 -   [Remote Mouse](https://www.remotemouse.net/) - Converta o seu celular num mouse.
--   [Figma](https://winstall.app/apps/Figma.Figma)
 -   [Spotify](https://winstall.app/apps/Spotify.Spotify) - Player principal.
+-   [Figma](https://winstall.app/apps/Figma.Figma)
 
 :wavy_dash:
 
+-   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
+-   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 -   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
 -   [App Buster](https://www.oo-software.com/en/ooappbuster) - Bust Apps you do not want!
 -   [VisiData](https://www.visidata.org/) - VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
--   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
--   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 -   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
 -   [Open Refine](https://github.com/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it.
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
@@ -84,6 +86,12 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [translucenttb](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows transparente e customizável.
 -   [SecureUxTheme](https://github.com/namazso/SecureUxTheme) - A secure boot compatible in-memory UxTheme patcher.
 
+#### py
+
+-   [toga](https://toga.readthedocs.io/en/latest/index.html) - Toga is a Python native, OS native, cross platform GUI toolkit. Toga consists of a library of base components with a shared interface to simplify platform-agnostic GUI development.
+-   [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
+-   [click](https://github.com/pallets/click/) - Python composable command line interface toolkit
+
 #### :icecream: interesting testing via scoop
 
 -   [pdftk-builder](https://pdftk-builder-enhanced.sourceforge.io/) - Graphical interface to PDF ToolKit for document manipulation (merge, split, ...).
@@ -95,8 +103,10 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [sonic-pi](https://sonic-pi.net/) - Ferramenta para criar música com código.
 -   [sampler](https://github.com/sqshq/sampler?tab=readme-ov-file) - A tool for shell commands execution, visualization and alerting.
 
-#### py
+#### todo :ghost:
 
--   [toga](https://toga.readthedocs.io/en/latest/index.html) - Toga is a Python native, OS native, cross platform GUI toolkit. Toga consists of a library of base components with a shared interface to simplify platform-agnostic GUI development.
--   [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
--   [click](https://github.com/pallets/click/) - Python composable command line interface toolkit
+-   [ ] md cleaning
+-   [ ] fix lang
+-   [ ] mac version (whether pt or en)
+-   [ ] test "interesting" apps via scoop
+-   [ ] organize contexts
