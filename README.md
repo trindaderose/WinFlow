@@ -4,8 +4,6 @@
 
 ![screenshot](./assets/onefetch.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trindaderose&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
 
 <!-- Se utiliza o Arc, salve em algum lugar seguro sua chave "arc_recovery_packet.txt" armazenada em C:\Users\%CURRENT_NAME%\Documents -->
