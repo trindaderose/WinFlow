@@ -8,23 +8,26 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 
 ## :gem: .exe & winget
 
+[Winget](https://winstall.app/) - Install Windows apps quickly with Windows Package Manager.
+
 -   [PowerShell](https://learn.microsoft.com/pt-br/powershell/) - Ferramenta de linha de comando e linguagem de script para automação de tarefas.
 -   [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Gerenciador de pacotes para instalar aplicativos no Windows.
 -   [winget-install](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget.
 -   [WinGet-Essentials](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
--   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
 -   [UniGetUI](https://www.marticliment.com/unigetui/) - Interface gráfica para facilitar o uso do UniGet, um gerenciador de pacotes.
 -   [Remote Mouse](https://www.remotemouse.net/) - Converta o seu celular num mouse.
--   [VisiData](https://www.visidata.org/) - VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
--   [App Buster](https://www.oo-software.com/en/ooappbuster) - Bust Apps you do not want!
--   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
--   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
+-   [Figma](https://winstall.app/apps/Figma.Figma)
+-   [Spotify](https://winstall.app/apps/Spotify.Spotify) - Player principal.
 
 :wavy_dash:
 
+-   [Arc](https://arc.net/) - Navegador web moderno e altamente personalizável.
+-   [App Buster](https://www.oo-software.com/en/ooappbuster) - Bust Apps you do not want!
+-   [VisiData](https://www.visidata.org/) - VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease.
+-   [Photoshop](https://www.adobe.com/br/products/photoshop.html)
+-   [Illustrator](https://www.adobe.com/br/products/illustrator.html)
 -   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
 -   [Open Refine](https://github.com/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it.
--   [Spotify](https://www.spotify.com/) - Player principal.
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
 -   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
 -   [Color LS](https://github.com/athityakumar/colorls?tab=readme-ov-file) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
