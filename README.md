@@ -1,8 +1,8 @@
-# WinFlow [![WinFlow](./logo.png)](./logo.png)
+# WinFlow ![WinFlow](./assets/logo.png)
 
-> Format windows at its best
+> Windows optimization at its best
 
-![screenshot](./onefetch.png)
+![screenshot](./assets/onefetch.png)
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
 
@@ -33,6 +33,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
 -   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
 -   [Color LS](https://github.com/athityakumar/colorls?tab=readme-ov-file) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
+-   [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools?tab=readme-ov-file) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 
 ## :ice_cream: scoop apps
 
