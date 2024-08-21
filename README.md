@@ -31,6 +31,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [Flow Launcher](https://www.flowlauncher.com/) - Raycast para Windows.
 -   [Open Refine](https://github.com/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it.
 -   [OpenVPN](https://openvpn.net/) - Solução de VPN segura e de código aberto.
+-   [catlight](https://catlight.io/) - Build status notifier.
 -   [OpenVPN Connect](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
 -   [Color LS](https://github.com/athityakumar/colorls?tab=readme-ov-file) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.
 -   [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools?tab=readme-ov-file) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
