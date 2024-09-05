@@ -24,14 +24,13 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**Win-Debloat-Tools**](https://github.com/LeDragoX/Win-Debloat-Tools?tab=readme-ov-file) - Reimagine o Windows como uma instalação mínima do SO.
 -   [**VisiData**](https://www.visidata.org/) - Ferramenta interativa para dados tabulares.
 -   [**Open Refine**](https://github.com/OpenRefine) - Ferramenta para trabalhar com dados desorganizados.
--   [**Flow Launcher**](https://www.flowlauncher.com/) - Raycast para Windows.
 -   [**Git**](https://git-scm.com/) - Git CLI.
 
 ### Design e Multimídia
 -   [**Figma**](https://winstall.app/apps/Figma.Figma) - Ferramenta de design.
 -   [**Photoshop**](https://www.adobe.com/br/products/photoshop.html) - Edição de imagens.
 -   [**Illustrator**](https://www.adobe.com/br/products/illustrator.html) - Design gráfico.
--   [**Arc**](https://arc.net/) - Navegador web moderno e altamente personalizável.
+-   [**Arc**](https://arc.net/) - Navegador web moderno.
 
 ### Utilitários e Sistema
 -   [**Remote Mouse**](https://www.remotemouse.net/) - Converta o seu celular num mouse.
