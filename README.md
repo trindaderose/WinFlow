@@ -2,7 +2,7 @@
 
 > Otimização do Windows no seu melhor.
 
-![screenshot](./assets/onefetch.png)
+![screenshot](./onefetch.png)
 
 Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambiente Windows.
 
