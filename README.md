@@ -81,6 +81,8 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**Toga**](https://toga.readthedocs.io/en/latest/index.html) - Biblioteca de interface gráfica nativa de Python e do sistema operacional, multiplataforma. Toga consiste em uma biblioteca de componentes base com uma interface compartilhada para simplificar o desenvolvimento de interfaces gráficas independentes de plataforma.
 -   [**stig**](https://github.com/rndusr/stig) - TUI e CLI para o cliente BitTorrent Transmission.
 -   [**click**](https://github.com/pallets/click/) - Biblioteca para criar interfaces de linha de comando compostas em Python.
+-   [**karbon**](https://github.com/furkanonder/karbon) - Karbon tracks background mouse events and turns them into artistic values!
+-   [**friture**](https://friture.org/index.html) - Friture helps you to understand audio data with several widgets.
 
 ## :sunflower: Windows Visuals
 
