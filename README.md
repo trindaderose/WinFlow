@@ -75,6 +75,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**glow**](https://github.com/charmbracelet/glow) - Visualizador de Markdown para a linha de comando.
 -   [**carapace-bin**](https://carapace-sh.github.io/carapace-bin/carapace-bin.html) - Completa comandos em várias ferramentas de linha de comando.
 -   [**onefetch**](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Exibe informações do repositório Git graficamente.
+-   [**quicklook**](https://github.com/QL-Win/QuickLook/releases) - Preview do macOS no Windows.
 
 ## :snake: Python
 
