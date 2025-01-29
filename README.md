@@ -52,6 +52,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**gitui**](https://github.com/extrawurst/gitui) - Interface gráfica rápida para Git.
 -   [**lazygit**](https://github.com/jesseduffield/lazygit) - Interface simples para comandos do Git.
 -   [**ndm**](https://github.com/720kb/ndm) - Gerenciador de pacotes para Node.js com interface gráfica.
+-   [**gping**](https://github.com/orf/gping) - Ping com gráfico.
 
 ### Utilitários e Ferramentas de Sistema
 -   [**7zip**](https://www.7-zip.org/) - Zip.
