@@ -85,6 +85,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**click**](https://github.com/pallets/click/) - Biblioteca para criar interfaces de linha de comando compostas em Python.
 -   [**karbon**](https://github.com/furkanonder/karbon) - Karbon tracks background mouse events and turns them into artistic values!
 -   [**friture**](https://friture.org/index.html) - Friture helps you to understand audio data with several widgets.
+-   [**bagels**](https://github.com/EnhancedJax/Bagels) - Expense tracker no terminal.
 
 ## :sunflower: Windows Visuals
 
