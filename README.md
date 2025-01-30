@@ -86,6 +86,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**karbon**](https://github.com/furkanonder/karbon) - Karbon tracks background mouse events and turns them into artistic values!
 -   [**friture**](https://friture.org/index.html) - Friture helps you to understand audio data with several widgets.
 -   [**bagels**](https://github.com/EnhancedJax/Bagels) - Expense tracker no terminal.
+-   [**calcure**](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 
 ## :sunflower: Windows Visuals
 
