@@ -53,6 +53,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**lazygit**](https://github.com/jesseduffield/lazygit) - Interface simples para comandos do Git.
 -   [**ndm**](https://github.com/720kb/ndm) - Gerenciador de pacotes para Node.js com interface gráfica.
 -   [**gping**](https://github.com/orf/gping) - Ping com gráfico.
+-   [**windhawk**](https://windhawk.net/) - The customization marketplace for Windows and programs.
 
 ### Utilitários e Ferramentas de Sistema
 -   [**7zip**](https://www.7-zip.org/) - Zip.
