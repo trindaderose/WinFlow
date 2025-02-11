@@ -40,6 +40,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**CCleaner**](https://www.ccleaner.com/ccleaner) - Ferramenta de limpeza para Windows.
 -   [**Lockhunter**](https://lockhunter.com/) - Ferramenta para deletar arquivos bloqueados por outros processos.
 -   [**Windows Spy Blocker**](https://crazymax.dev/WindowsSpyBlocker/download/) - Ferramenta para proteger sua privacidade bloqueando espionagem no Windows.
+-   [**BatteryInfoView**](https://www.nirsoft.net/utils/battery_information_view.html) - Displays battery information on laptops and netbooks.
 
 ## :ice_cream: `scoop` apps
 
