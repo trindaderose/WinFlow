@@ -18,19 +18,19 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**winget-install**](https://github.com/asheroto/winget-install) - Ferramenta para simplificar a instalação de aplicativos via Winget.
 -   [**WinGet-Essentials**](https://github.com/jjcarrier/PS-WinGet-Essentials) - Conjunto de scripts essenciais para utilizar com o Winget.
 -   [**Color LS**](https://github.com/athityakumar/colorls?tab=readme-ov-file) - Embeleza o comando `ls` do terminal com cores e ícones.
--   [**tockler**](https://github.com/MayGo/tockler?tab=readme-ov-file) - Rastreie automaticamente o uso de aplicativos e o tempo de trabalho.
--   [**OpenVPN**](https://openvpn.net/) - Solução de VPN segura e de código aberto.
--   [**OpenVPN Connect**](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows.
--   [**Win-Debloat-Tools**](https://github.com/LeDragoX/Win-Debloat-Tools?tab=readme-ov-file) - Reimagine o Windows como uma instalação mínima do SO.
+<!-- -   [**tockler**](https://github.com/MayGo/tockler?tab=readme-ov-file) - Rastreie automaticamente o uso de aplicativos e o tempo de trabalho. -->
+<!-- -   [**OpenVPN**](https://openvpn.net/) - Solução de VPN segura e de código aberto. -->
+<!-- -   [**OpenVPN Connect**](https://openvpn.net/client/client-connect-vpn-for-windows/) - Cliente oficial do OpenVPN para Windows. -->
+<!-- -   [**Win-Debloat-Tools**](https://github.com/LeDragoX/Win-Debloat-Tools?tab=readme-ov-file) - Reimagine o Windows como uma instalação mínima do SO. -->
 -   [**VisiData**](https://www.visidata.org/) - Ferramenta interativa para dados tabulares.
--   [**Open Refine**](https://github.com/OpenRefine) - Ferramenta para trabalhar com dados desorganizados.
+<!-- -   [**Open Refine**](https://github.com/OpenRefine) - Ferramenta para trabalhar com dados desorganizados. -->
 -   [**Git**](https://git-scm.com/) - Git CLI.
 
 ### Design e Multimídia
 -   [**Figma**](https://winstall.app/apps/Figma.Figma) - Ferramenta de design.
 -   [**Photoshop**](https://www.adobe.com/br/products/photoshop.html) - Edição de imagens.
 -   [**Illustrator**](https://www.adobe.com/br/products/illustrator.html) - Design gráfico.
--   [**Arc**](https://arc.net/) - Navegador web moderno.
+<!-- -   [**Arc**](https://arc.net/) - Navegador web moderno. -->
 
 ### Utilitários e Sistema
 -   [**Remote Mouse**](https://www.remotemouse.net/) - Converta o seu celular num mouse.
@@ -51,7 +51,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**python**](https://www.python.org/) - Linguagem de programação para desenvolvimento rápido.
 -   [**go**](https://scoop.sh/#/apps?q=go&id=dcfaae18877d76da268d8ca08a42959611368208) - Linguagem de programação eficiente e confiável.
 -   [**gitui**](https://github.com/extrawurst/gitui) - Interface gráfica rápida para Git.
--   [**lazygit**](https://github.com/jesseduffield/lazygit) - Interface simples para comandos do Git.
+<!-- -   [**lazygit**](https://github.com/jesseduffield/lazygit) - Interface simples para comandos do Git. -->
 -   [**ndm**](https://github.com/720kb/ndm) - Gerenciador de pacotes para Node.js com interface gráfica.
 -   [**gping**](https://github.com/orf/gping) - Ping com gráfico.
 -   [**windhawk**](https://windhawk.net/) - The customization marketplace for Windows and programs.
@@ -66,21 +66,21 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**freeze**](https://github.com/charmbracelet/freeze) - Gere imagens de código e saída do terminal.
 -   [**easy-context-menu**](https://www.sordum.org/7615/easy-context-menu-v1-6/) - Personalize o menu de contexto do Windows.
 -   [**powertoys**](https://github.com/microsoft/PowerToys) - Conjunto de utilitários para aumentar a produtividade no Windows.
--   [**attribute-changer**](https://www.petges.lu/) - Ferramenta para alterar atributos de arquivos e pastas.
+<!-- -   [**attribute-changer**](https://www.petges.lu/) - Ferramenta para alterar atributos de arquivos e pastas. -->
 -   [**defraggler**](https://www.ccleaner.com/defraggler) - Desfragmentador de disco simples e eficiente.
 -   [**winfetch**](https://github.com/lptstr/winfetch) - Ferramenta de linha de comando para informações do sistema (semelhante ao onefetch para repositórios).
 -   [**transmission**](https://transmissionbt.com/) - Cliente BitTorrent leve.
 -   [**space-radar**](https://github.com/zz85/space-radar) - Visualização de espaço em disco e memória.
 -   [**superfile**](https://github.com/yorukot/superfile?tab=readme-ov-file) - Gerenciador de arquivos para terminal.
 -   [**imagemagick**](https://imagemagick.org/) - Ferramentas para criar, editar e compor imagens.
--   [**csview**](https://github.com/wfxr/csview) - Visualizador de arquivos CSV via terminal.
--   [**firefox-developer**](https://www.mozilla.org/en-US/firefox/developer/) - Navegador secundário.
+<!-- -   [**csview**](https://github.com/wfxr/csview) - Visualizador de arquivos CSV via terminal. -->
+<!-- -   [**firefox-developer**](https://www.mozilla.org/en-US/firefox/developer/) - Navegador secundário. -->
 -   [**glow**](https://github.com/charmbracelet/glow) - Visualizador de Markdown para a linha de comando.
--   [**carapace-bin**](https://carapace-sh.github.io/carapace-bin/carapace-bin.html) - Completa comandos em várias ferramentas de linha de comando.
+<!-- -   [**carapace-bin**](https://carapace-sh.github.io/carapace-bin/carapace-bin.html) - Completa comandos em várias ferramentas de linha de comando. -->
 -   [**onefetch**](https://github.com/o2sh/onefetch?tab=readme-ov-file) - Exibe informações do repositório Git graficamente.
 -   [**quicklook**](https://github.com/QL-Win/QuickLook/releases) - Preview do macOS no Windows.
 
-## :snake: Python
+<!-- ## :snake: Python
 
 -   [**Toga**](https://toga.readthedocs.io/en/latest/index.html) - Biblioteca de interface gráfica nativa de Python e do sistema operacional, multiplataforma. Toga consiste em uma biblioteca de componentes base com uma interface compartilhada para simplificar o desenvolvimento de interfaces gráficas independentes de plataforma.
 -   [**stig**](https://github.com/rndusr/stig) - TUI e CLI para o cliente BitTorrent Transmission.
@@ -88,7 +88,7 @@ Ferramentas e utilitários essenciais para otimizar e personalizar o meu ambient
 -   [**karbon**](https://github.com/furkanonder/karbon) - Karbon tracks background mouse events and turns them into artistic values!
 -   [**friture**](https://friture.org/index.html) - Friture helps you to understand audio data with several widgets.
 -   [**bagels**](https://github.com/EnhancedJax/Bagels) - Expense tracker no terminal.
--   [**calcure**](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
+-   [**calcure**](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI. -->
 
 ## :sunflower: Windows Visuals
 
